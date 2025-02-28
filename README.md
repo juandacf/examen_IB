@@ -1,10 +1,10 @@
-##README - Estructura de Base de Datos de Ventas de Vehículos
+Estructura de Base de Datos de Ventas de Vehículos
 
-#Descripcion
+Descripcion
 
 Este proyecto define la estructura de una base de datos, en lenguaje sql, para gestionar la venta de vehículos, incluyendo clientes, vendedores, métodos de pago, inventario, mantenimiento, y características de los vehículos.
 
-#Relación entre Tablas
+Relación entre Tablas
 
 La base de datos sigue un modelo relacional donde:
 
